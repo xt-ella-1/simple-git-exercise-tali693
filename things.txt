@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: Chocolate
+I like to hear: Piano
+My hobbies are to play, create, bake, do shopping.
 
-I would like to travel to <XXXX>.
+I would like to travel to Paris.
 
-"<XXXX Your favorite quote goes here>".
+"You only live once".
