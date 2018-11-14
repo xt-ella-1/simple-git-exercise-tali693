@@ -4,4 +4,8 @@ My hobbies are to play, create, bake, do shopping.
 
 I would like to travel to Paris.
 
+<<<<<<< HEAD
 "You only live once!".
+=======
+"You only live once. Do it the best".
+>>>>>>> Tali_changes
